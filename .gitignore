@@ -1,3 +1,8 @@
+# Idea files ignoring
+*.iml
+**/.idea
+**/target
+
 # Compiled class file
 *.class
 
